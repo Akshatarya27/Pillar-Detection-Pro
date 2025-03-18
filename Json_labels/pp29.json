@@ -1,0 +1,100 @@
+{
+  "version": "5.6.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          272.1768488745981,
+          1.3858520900321523
+        ],
+        [
+          292.75562700964633,
+          118.10610932475885
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7461597919464111, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          196.0,
+          13.0
+        ],
+        [
+          219.0,
+          110.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7070431113243103, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          138.0,
+          36.0
+        ],
+        [
+          153.0,
+          96.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.35503143072128296, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          0.0,
+          23.0
+        ],
+        [
+          16.0,
+          99.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.2780352532863617, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          110.0,
+          53.0
+        ],
+        [
+          122.0,
+          88.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.153321772813797, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\Images\\pp29.jpeg",
+  "imageData": null,
+  "imageHeight": 142,
+  "imageWidth": 354
+}

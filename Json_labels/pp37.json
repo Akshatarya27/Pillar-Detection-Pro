@@ -1,0 +1,82 @@
+{
+  "version": "5.6.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          78.0,
+          9.0
+        ],
+        [
+          113.0,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.7403742074966431, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          118.0,
+          24.0
+        ],
+        [
+          146.0,
+          135.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.5916720628738403, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          164.7507418397626,
+          41.735905044510396
+        ],
+        [
+          186.0,
+          124.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.18217957019805908, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          0.0,
+          1.0
+        ],
+        [
+          11.635014836795264,
+          158.946587537092
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.1487070918083191, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\dataset\\images\\pp37.jpeg",
+  "imageData": null,
+  "imageHeight": 190,
+  "imageWidth": 266
+}

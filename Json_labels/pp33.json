@@ -1,0 +1,46 @@
+{
+  "version": "5.6.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          47.0,
+          1.0
+        ],
+        [
+          85.0,
+          150.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.6096283197402954, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    },
+    {
+      "label": "Pillar",
+      "points": [
+        [
+          26.0,
+          34.0
+        ],
+        [
+          46.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "description": "{\"score\": 0.5770010352134705, \"text\": \"Pillar\"}",
+      "shape_type": "rectangle",
+      "flags": null,
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\Images\\pp33.jpeg",
+  "imageData": null,
+  "imageHeight": 183,
+  "imageWidth": 275
+}
